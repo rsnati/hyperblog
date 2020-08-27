@@ -4,6 +4,7 @@ body {
     color: #795c3e;
     margin: 0 auto;
     padding:0.5cm;
+    background-color: rgb(241, 241, 241);
 }
 
 
@@ -25,11 +26,12 @@ body {
 
 #contain{
     width: 70%;
-    padding: 0%;
+    padding: 0.1%;
     text-align: left;
     border: 1px solid #dddddd;
     margin: 0 auto;
     font-size: 100%;
+    background-color: #ffffff;
 
 
 }
