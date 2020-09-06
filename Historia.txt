@@ -6,6 +6,9 @@ Estoy aprendiendo Git para poder llevar un
 seguimiento adecuado de mis proyectos y un monitoreo
 claro de los cambios.
 
+Master 1.
+
+
 El curso esta superando mis expectativas, 
 estoy acalarando muchisimos conceptos. Hay muchos conceptos 
 que tener claro para poder utilizar esta herramienta 
